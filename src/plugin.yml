@@ -1,0 +1,7 @@
+name: Legendary Items
+author: KrazyTar
+main: com.krazytar.plugins.legendaryitems.LegendaryItems
+commands:
+    li:
+        description: Main command for Legendary Items!
+version: 1.0
